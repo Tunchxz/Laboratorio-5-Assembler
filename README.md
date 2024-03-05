@@ -7,7 +7,7 @@ Programa capaz de realizar conversiones entre Binario en formato IEEE 754 de pre
 Universidad del Valle de Guatemala  
 Facultad de Ingeniería  
 Departamento de Ciencias de la Computación  
-CC3054 Organización de Computadoras y Assembler
+CC3054 Organización de Computadoras y Assembler  
 Guatemala, 4 de marzo de 2024
 
 ## Colaboradores
